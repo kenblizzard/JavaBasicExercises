@@ -15,7 +15,6 @@ public class FileScanner {
         System.out.println("Hello");
         System.out.println("hi");
         System.out.println("hi");
-       // /
-       // sad
+       /////////////////////////////////
     }
 }
