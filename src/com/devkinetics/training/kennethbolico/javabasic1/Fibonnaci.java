@@ -15,8 +15,8 @@ public class Fibonnaci {
     private static int nMax = 20;
 
     public static void main(String[] args) {
-        sumFibonnaci();
-         //sumFibonnaci(1, 1, 1);
+        //sumFibonnaci();
+         sumFibonnaci(1, 1, 1);
     }
 
     private static void sumFibonnaci(int a, int b, int counter) {
